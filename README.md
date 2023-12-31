@@ -6,7 +6,7 @@ Da die "Standardplaylist" (auf satip.info) seit Jahren nicht mehr gepflegt wird,
 
 Sender ohne echten Mehrwert für die DACH-Region (z.B. reine Teleshopping oder Astrologiesender) werden bewusst aussortiert, um die Liste übersichtlich zu halten. (Sollte es dennoch tatsächlich Bedarf an diesen Sendern geben, kann ich die in einer eigenen Playlist bereitstellen.)
 
-Die Liste wird *händisch* gepflegt, allerdings nicht im Rohformat sondern in einer Datenbank, die hier angebotene Liste ist mittels Script erzeugt & dann angeboten. Es können auch "Subsets" erzeugt werden, also individuelle Zusammenstellungen oder Sortierungen.
+Die Liste wird *händisch* gepflegt, allerdings nicht im Rohformat sondern in einer Datenbank, die hier angebotene Liste ist mittels Script erzeugt. (Es könnten auch "Subsets" erzeugt werden, also individuelle Zusammenstellungen oder Sortierungen.)
 
 ### Einbinden der aktuellen Playlist in VLC
 
