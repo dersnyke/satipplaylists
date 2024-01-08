@@ -1,10 +1,10 @@
 # SAT>IP M3U playlists
 
-Da die "Standardplaylist" (auf satip.info) seit Jahren nicht mehr gepflegt wird, hier eine Playlist mit den deutschen FTA Sendern auf Astra 19.2E. Mittels VLC und einem SAT>IP-Server kann somit der Empfang starten.
+Da die "Standardplaylist" (auf satip.info) seit Jahren nicht mehr gepflegt wird, hier eine Playlist mit den relevanten FTA Sendern auf Astra 19.2E. Mittels VLC und einem SAT>IP-Server kann somit der Empfang starten.
 
-**Die Liste ist noch nicht vollständig. Es fehlen noch einige sinnvolle TV-Sender und Radiosender. Diese werden sukzessive ergänzt. Wenn ein bestimmter Sender sofort gewünscht wird, Issue erstellen.**
+**Wenn ein bestimmter Sender gewünscht wird oder nicht mehr funktioniert, Issue erstellen. Vorerst sind alle mir halbwegs wichtig erscheinenden Sender enthalten.**
 
-Sender ohne echten Mehrwert für die DACH-Region (z.B. reine Teleshopping oder Astrologiesender) werden bewusst aussortiert, um die Liste übersichtlich zu halten. (Sollte es dennoch tatsächlich Bedarf an diesen Sendern geben, kann ich die in einer eigenen Playlist bereitstellen.)
+Sender ohne echten Mehrwert für die DACH-Region (z.B. reine Teleshopping oder Astrologiesender) werden bewusst nicht aufgenommen, um die Liste übersichtlich zu halten. (Sollte es dennoch tatsächlich Bedarf an diesen Sendern geben, kann ich die in einer eigenen Playlist bereitstellen.)
 
 Die Liste wird *händisch* gepflegt, allerdings nicht im Rohformat sondern in einer Datenbank, die hier angebotene Liste ist mittels Script erzeugt. (Es könnten auch "Subsets" erzeugt werden, also individuelle Zusammenstellungen oder Sortierungen.)
 
