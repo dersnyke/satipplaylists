@@ -1,0 +1,183 @@
+#EXTM3U
+#EXTINF:0,3sat HD
+rtsp://sat.ip/?src=1&freq=11347&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,6500,6510,6520,6530
+#EXTINF:0,a.tv
+rtsp://sat.ip/?src=1&freq=11552&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,101,1010,1012
+#EXTINF:0,Al Jazeera English
+rtsp://sat.ip/?src=1&freq=11229&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,3100,3101,3102
+#EXTINF:0,ANIXE HD
+rtsp://sat.ip/?src=1&freq=10774&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=34&pids=0,17,18,255,259,96
+#EXTINF:0,ARD alpha HD
+rtsp://sat.ip/?src=1&freq=11053&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,5420,5421,5422,5423,5424,5426,5427
+#EXTINF:0,Arirang HD
+rtsp://sat.ip/?src=1&freq=11509&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,712,732,762
+#EXTINF:0,arte HD
+rtsp://sat.ip/?src=1&freq=11494&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5110,5111,5112,5113
+#EXTINF:0,BBC World News
+rtsp://sat.ip/?src=1&freq=11229&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,212,2091,2092
+#EXTINF:0,Bibel TV
+rtsp://sat.ip/?src=1&freq=11244&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,224,2240,2241
+#EXTINF:0,Bloomberg Europe TV
+rtsp://sat.ip/?src=1&freq=12604&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,48,150,265,3622
+#EXTINF:0,BR HD
+rtsp://sat.ip/?src=1&freq=11583&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5201,5202,5210,5204
+#EXTINF:0,CNBC HD
+rtsp://sat.ip/?src=1&freq=12382&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=27500&fec=34&pids=0,17,18,105,2303,2307
+#EXTINF:0,CNEWS
+rtsp://sat.ip/?src=1&freq=12207&pol=v&ro=0.25&msys=dvbs2&mtype=8psk&plts=off&sr=29700&fec=23&pids=0,17,18,1400,1410,1421
+#EXTINF:0,CNN Int.
+rtsp://sat.ip/?src=1&freq=11778&pol=v&ro=0.25&msys=dvbs2&mtype=qpsk&plts=off&sr=29500&fec=910&pids=0,17,18,48,95,400
+#EXTINF:0,Comedy Central
+rtsp://sat.ip/?src=1&freq=11973&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,416,4061,4062,8190
+#EXTINF:0,Crime Time
+rtsp://sat.ip/?src=1&freq=12610&pol=v&ro=0.25&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=34&pids=0,17,18,107,3071,3072
+#EXTINF:0,Das Erste HD
+rtsp://sat.ip/?src=1&freq=11494&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5100,5101,5102,5104
+#EXTINF:0,Deluxe Dance by Kontor
+rtsp://sat.ip/?src=1&freq=12610&pol=v&ro=0.25&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=34&pids=0,17,18,101,1535,1536
+#EXTINF:0,Deluxe Flashback
+rtsp://sat.ip/?src=1&freq=12610&pol=v&ro=0.25&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=34&pids=0,17,18,102,1791,1792
+#EXTINF:0,Deluxe Lounge
+rtsp://sat.ip/?src=1&freq=12610&pol=v&ro=0.25&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=34&pids=0,17,18,105,2559,2560
+#EXTINF:0,Deluxe Music
+rtsp://sat.ip/?src=1&freq=12148&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,99,3327,3328
+#EXTINF:0,Deluxe Rap
+rtsp://sat.ip/?src=1&freq=12610&pol=v&ro=0.25&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=34&pids=0,17,18,100,1279,1280
+#EXTINF:0,Deluxe Rock
+rtsp://sat.ip/?src=1&freq=12610&pol=v&ro=0.25&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=34&pids=0,17,18,99,1023,1024
+#EXTINF:0,Deutsches Musik Fernsehen
+rtsp://sat.ip/?src=1&freq=12633&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,105,53,54
+#EXTINF:0,DF1 HD
+rtsp://sat.ip/?src=1&freq=11302&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,110,4920,4921
+#EXTINF:0,Disney Channel
+rtsp://sat.ip/?src=1&freq=12460&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,115,2047,2048
+#EXTINF:0,DMAX
+rtsp://sat.ip/?src=1&freq=12480&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,3327,3328,108,44
+#EXTINF:0,DOKUSAT
+rtsp://sat.ip/?src=1&freq=12663&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,1030,1031,1035,1103
+#EXTINF:0,DW English HD
+rtsp://sat.ip/?src=1&freq=11778&pol=v&ro=0.25&msys=dvbs2&mtype=qpsk&plts=off&sr=29500&fec=910&pids=0,17,18,1000,1110,1120
+#EXTINF:0,EURONEWS GERMAN SD
+rtsp://sat.ip/?src=1&freq=11376&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,1081,1082,1180
+#EXTINF:0,EUROSPORT Deutschland
+rtsp://sat.ip/?src=1&freq=12227&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,101,103,280,102
+#EXTINF:0,EWTN Katholisches TV
+rtsp://sat.ip/?src=1&freq=12460&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,100,1023,1024
+#EXTINF:0,France 24
+rtsp://sat.ip/?src=1&freq=11538&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,201,605,625
+#EXTINF:0,France 24 English
+rtsp://sat.ip/?src=1&freq=11538&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,202,606,626
+#EXTINF:0,HGTV
+rtsp://sat.ip/?src=1&freq=10921&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=78&pids=0,17,18,99,1023,1024
+#EXTINF:0,Hip Trips
+rtsp://sat.ip/?src=1&freq=12610&pol=v&ro=0.25&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=34&pids=0,17,18,97,511,512
+#EXTINF:0,Hitradio OE3
+rtsp://sat.ip/?src=1&freq=12693&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,130,131,1003
+#EXTINF:0,Hope Channel TV
+rtsp://sat.ip/?src=1&freq=11244&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,227,2270,2271
+#EXTINF:0,HR HD
+rtsp://sat.ip/?src=1&freq=10891&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5350,5351,5352,5354
+#EXTINF:0,K-TV Fernsehen
+rtsp://sat.ip/?src=1&freq=12633&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,102,202,302
+#EXTINF:0,kabel eins
+rtsp://sat.ip/?src=1&freq=12545&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,767,768,98,34
+#EXTINF:0,kabel eins Doku
+rtsp://sat.ip/?src=1&freq=12545&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,41,105,2559,2560
+#EXTINF:0,KiKA HD
+rtsp://sat.ip/?src=1&freq=11347&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,6600,6610,6620,6630
+#EXTINF:0,krone.tv
+rtsp://sat.ip/?src=1&freq=11273&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,313,3130,3131
+#EXTINF:0,KURIER TV
+rtsp://sat.ip/?src=1&freq=11244&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,225,2250,2251
+#EXTINF:0,MDR HD
+rtsp://sat.ip/?src=1&freq=10891&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5330,5331,5332,5334
+#EXTINF:0,MTV
+rtsp://sat.ip/?src=1&freq=11973&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,411,4081,4082,4083
+#EXTINF:0,muenchen.tv HD
+rtsp://sat.ip/?src=1&freq=11553&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,102,1020,1022
+#EXTINF:0,n-tv
+rtsp://sat.ip/?src=1&freq=12187&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,48,169,73
+#EXTINF:0,N24 DOKU
+rtsp://sat.ip/?src=1&freq=12460&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,97,511,512
+#EXTINF:0,NDR HD
+rtsp://sat.ip/?src=1&freq=11583&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5221,5222,5240,5224
+#EXTINF:0,NHK World
+rtsp://sat.ip/?src=1&freq=11229&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,1720,1760,5071
+#EXTINF:0,Nickelodeon HD
+rtsp://sat.ip/?src=1&freq=11973&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,420,4101,4102,8190
+#EXTINF:0,ONE HD
+rtsp://sat.ip/?src=1&freq=11053&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,5410,5411,5412
+#EXTINF:0,One Terra
+rtsp://sat.ip/?src=1&freq=12610&pol=v&ro=0.25&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=34&pids=0,17,18,98,767,768
+#EXTINF:0,ORF2 Europe
+rtsp://sat.ip/?src=1&freq=12693&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,1004,170,171
+#EXTINF:0,phoenix HD
+rtsp://sat.ip/?src=1&freq=11582&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,5260,5261,5262,5263
+#EXTINF:0,Pro7 MAXX
+rtsp://sat.ip/?src=1&freq=12545&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,101,1535,1536
+#EXTINF:0,ProSieben
+rtsp://sat.ip/?src=1&freq=12545&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,97,511,512,33
+#EXTINF:0,Radio Bremen TV
+rtsp://sat.ip/?src=1&freq=12422&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,1200,1201,1202,1204
+#EXTINF:0,rbb Berlin HD
+rtsp://sat.ip/?src=1&freq=10891&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5310,5311,5312,5314
+#EXTINF:0,Red Adventure
+rtsp://sat.ip/?src=1&freq=12610&pol=v&ro=0.25&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=34&pids=0,17,18,106,2815,2816
+#EXTINF:0,Rheinmain TV
+rtsp://sat.ip/?src=1&freq=12633&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,108,208,308,508
+#EXTINF:0,RTL
+rtsp://sat.ip/?src=1&freq=12188&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,163,104,44,105
+#EXTINF:0,RTL Nitro
+rtsp://sat.ip/?src=1&freq=12188&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,173,146,53,84
+#EXTINF:0,RTLup
+rtsp://sat.ip/?src=1&freq=12188&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,41,70,137,168
+#EXTINF:0,RTLZWEI
+rtsp://sat.ip/?src=1&freq=12188&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,166,128,46,68
+#EXTINF:0,SAT.1
+rtsp://sat.ip/?src=1&freq=12545&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,255,256,96,32
+#EXTINF:0,SAT.1 Gold
+rtsp://sat.ip/?src=1&freq=12545&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,1279,1280,100,36
+#EXTINF:0,SERIEN+
+rtsp://sat.ip/?src=1&freq=12610&pol=v&ro=0.25&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=34&pids=0,17,18,108,3327,3328
+#EXTINF:0,Sixx
+rtsp://sat.ip/?src=1&freq=12461&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,767,768,99,35
+#EXTINF:0,Sky News Intl
+rtsp://sat.ip/?src=1&freq=12604&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,7290,1290,2290
+#EXTINF:0,SPORT1 HD
+rtsp://sat.ip/?src=1&freq=12480&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,1023,1024,103,39
+#EXTINF:0,SR Fernsehen HD
+rtsp://sat.ip/?src=1&freq=11053&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,5430,5431,5432,5433,5434,5436,5437
+#EXTINF:0,Super RTL
+rtsp://sat.ip/?src=1&freq=12188&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,165,120,45,65
+#EXTINF:0,SWR HD
+rtsp://sat.ip/?src=1&freq=11494&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5121,5122,5120,5124
+#EXTINF:0,tagesschau24 HD
+rtsp://sat.ip/?src=1&freq=11053&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,5400,5401,5402
+#EXTINF:0,TELE 5
+rtsp://sat.ip/?src=1&freq=12480&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,99,1535,1536
+#EXTINF:0,TLC
+rtsp://sat.ip/?src=1&freq=12460&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,37,103,1535,1536
+#EXTINF:0,TOGGO plus
+rtsp://sat.ip/?src=1&freq=12188&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,58,301,303
+#EXTINF:0,tv.ingolstadt HD
+rtsp://sat.ip/?src=1&freq=11553&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,105,1050,1052
+#EXTINF:0,TV5 Monde Europe
+rtsp://sat.ip/?src=1&freq=11538&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,665,615,635
+#EXTINF:0,Volksmusik TV
+rtsp://sat.ip/?src=1&freq=11244&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,222,2220,2221
+#EXTINF:0,VOX
+rtsp://sat.ip/?src=1&freq=12188&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,167,136,47,71
+#EXTINF:0,VOXup
+rtsp://sat.ip/?src=1&freq=12226&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,600,601,602,603
+#EXTINF:0,WDR HD Koeln
+rtsp://sat.ip/?src=1&freq=11523&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,100,101,102,103,104,106,107
+#EXTINF:0,WELT
+rtsp://sat.ip/?src=1&freq=12545&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,99,1023,1024
+#EXTINF:0,Xplore
+rtsp://sat.ip/?src=1&freq=12610&pol=v&ro=0.25&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=34&pids=0,17,18,96,255,256
+#EXTINF:0,ZDF HD
+rtsp://sat.ip/?src=1&freq=11362&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,6100,6110,6120,6130
+#EXTINF:0,ZDFinfo HD
+rtsp://sat.ip/?src=1&freq=11347&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,6700,6710,6720,6730
+#EXTINF:0,zdf_neo HD
+rtsp://sat.ip/?src=1&freq=11362&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,6300,6310,6320,6330
