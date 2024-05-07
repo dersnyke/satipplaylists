@@ -127,6 +127,8 @@ rtsp://sat.ip/?src=1&freq=12422&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=2
 rtsp://sat.ip/?src=1&freq=10891&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5310,5311,5312,5314
 #EXTINF:0,Red Adventure
 rtsp://sat.ip/?src=1&freq=12610&pol=v&ro=0.25&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=34&pids=0,17,18,106,2815,2816
+#EXTINF:0,RheinMain TV
+rtsp://sat.ip/?src=1&freq=12633&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,108,208,308
 #EXTINF:0,RiC
 rtsp://sat.ip/?src=1&freq=11302&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,130,1930,1931
 #EXTINF:0,RTL
@@ -175,6 +177,8 @@ rtsp://sat.ip/?src=1&freq=11244&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=2
 rtsp://sat.ip/?src=1&freq=12188&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,167,136,47,71
 #EXTINF:0,VOXup
 rtsp://sat.ip/?src=1&freq=12226&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,600,601,602,603
+#EXTINF:0,WDR HD Aachen
+rtsp://sat.ip/?src=1&freq=11523&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,101,102,103,104,106,107,110,111
 #EXTINF:0,WDR HD Koeln
 rtsp://sat.ip/?src=1&freq=11523&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,100,101,102,103,104,106,107
 #EXTINF:0,WELT
