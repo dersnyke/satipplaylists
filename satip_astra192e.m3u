@@ -209,6 +209,8 @@ rtsp://sat.ip/?src=1&freq=12663&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=2
 rtsp://sat.ip/?src=1&freq=12663&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,1128,428
 #EXTINF:0,OE3
 rtsp://sat.ip/?src=1&freq=11302&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,102,921
+#EXTINF:0,OLDIE ANTENNE
+rtsp://sat.ip/?src=1&freq=12148&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,32,368
 #EXTINF:0,ONE HD
 rtsp://sat.ip/?src=1&freq=11053&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,5410,5411,5412
 #EXTINF:0,One Terra
