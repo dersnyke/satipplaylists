@@ -60,7 +60,7 @@ rtsp://sat.ip/?src=1&freq=12207&pol=v&ro=0.25&msys=dvbs2&mtype=8psk&plts=off&sr=
 #EXTINF:0,CNN Int.
 rtsp://sat.ip/?src=1&freq=11778&pol=v&ro=0.25&msys=dvbs2&mtype=qpsk&plts=off&sr=29500&fec=910&pids=0,17,18,48,95,400
 #EXTINF:0,Comedy Central
-rtsp://sat.ip/?src=1&freq=11973&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,416,4061,4062,8190
+rtsp://sat.ip/?src=1&freq=11973&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,416,4061,4062,4063
 #EXTINF:0,COSMO
 rtsp://sat.ip/?src=1&freq=11053&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,650,651
 #EXTINF:0,Crime Time
@@ -199,8 +199,8 @@ rtsp://sat.ip/?src=1&freq=11053&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=
 rtsp://sat.ip/?src=1&freq=11053&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,295,296
 #EXTINF:0,NHK World
 rtsp://sat.ip/?src=1&freq=11229&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,1720,1760,5071
-#EXTINF:0,Nickelodeon HD
-rtsp://sat.ip/?src=1&freq=11973&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,420,4101,4102,8190
+#EXTINF:0,Nick/Comedy Central+1
+rtsp://sat.ip/?src=1&freq=11973&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,420,4101,4102,4103
 #EXTINF:0,NRJ
 rtsp://sat.ip/?src=1&freq=12285&pol=v&ro=0.25&msys=dvbs2&mtype=8psk&plts=off&sr=29700&fec=23&pids=0,17,18,1960,2160
 #EXTINF:0,OE1
