@@ -325,6 +325,8 @@ rtsp://sat.ip/?src=1&freq=11553&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=
 rtsp://sat.ip/?src=1&freq=12692&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,1023,3040,3041
 #EXTINF:0,TV5 Monde Europe
 rtsp://sat.ip/?src=1&freq=11538&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,665,615,635
+#EXTINF:0,UHD1
+rtsp://sat.ip/?src=1&freq=10995&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=56&pids=0,17,18,96,101,102
 #EXTINF:0,Volksmusik TV
 rtsp://sat.ip/?src=1&freq=11244&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,222,2220,2221
 #EXTINF:0,VOX
