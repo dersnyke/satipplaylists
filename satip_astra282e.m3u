@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:0,Arirang TV HD
+rtsp://sat.ip/?src=1&freq=11223&pol=v&ro=0.25&msys=dvbs2&mtype=8psk&plts=off&sr=23000&fec=23&pids=0,17,18,260,2309,2311,2312
+#EXTINF:0,BLAZE
+rtsp://sat.ip/?src=1&freq=11083&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,263,2309,2310,2311,2314
+#EXTINF:0,CNN HD
+rtsp://sat.ip/?src=1&freq=11671&pol=h&ro=0.25&msys=dvbs2&mtype=8psk&plts=off&sr=23000&fec=23&pids=0,17,18,256,2324,2325,2326,2328
+#EXTINF:0,DMAX
+rtsp://sat.ip/?src=1&freq=11038&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=23000&fec=23&pids=0,17,18,265,2318,2327,2335,2336
+#EXTINF:0,E4
+rtsp://sat.ip/?src=1&freq=10714&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,263,2372,2373,2374,2375
+#EXTINF:0,Film4
+rtsp://sat.ip/?src=1&freq=10714&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,266,2353,2354,2355,2356
+#EXTINF:0,HGTV
+rtsp://sat.ip/?src=1&freq=11038&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=23000&fec=23&pids=0,17,18,262,2374,2375,2376,2377
+#EXTINF:0,More4+1
+rtsp://sat.ip/?src=1&freq=10714&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,264,2367,2368,2369,2370
+#EXTINF:0,NHK World HD
+rtsp://sat.ip/?src=1&freq=11223&pol=v&ro=0.25&msys=dvbs2&mtype=8psk&plts=off&sr=23000&fec=23&pids=0,17,18,274,2315,2316,2317
+#EXTINF:0,NOW 70s
+rtsp://sat.ip/?src=1&freq=11083&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,274,2317,2322
+#EXTINF:0,NOW 80s
+rtsp://sat.ip/?src=1&freq=11083&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,257,2360,2361
+#EXTINF:0,Quest Red
+rtsp://sat.ip/?src=1&freq=11038&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=23000&fec=23&pids=0,17,18,278,2319,2320,2321,2322
+#EXTINF:0,Rewind TV
+rtsp://sat.ip/?src=1&freq=11083&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=on&sr=22000&fec=56&pids=0,17,18,275,2338,2339
