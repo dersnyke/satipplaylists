@@ -280,7 +280,7 @@ rtsp://sat.ip/?src=1&freq=12610&pol=v&ro=0.25&msys=dvbs2&mtype=8psk&plts=off&sr=
 #EXTINF:0,Sixx
 rtsp://sat.ip/?src=1&freq=12545&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,38,102,1791,1792
 #EXTINF:0,Sky News Intl
-rtsp://sat.ip/?src=1&freq=12604&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,7290,1290,2290
+rtsp://sat.ip/?src=1&freq=12604&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,1290,1750,2290,7290
 #EXTINF:0,SPORT1 HD
 rtsp://sat.ip/?src=1&freq=12480&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,1023,1024,103,39
 #EXTINF:0,SR 1 Europawelle
