@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:0,BR Fernsehen Nord HD
+rtsp://sat.ip/?src=1&freq=11582&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,5210,5201,5202
+#EXTINF:0,BR Fernsehen Süd HD
+rtsp://sat.ip/?src=1&freq=11582&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,5200,5201,5202
+#EXTINF:0,MDR S-Anhalt HD
+rtsp://sat.ip/?src=1&freq=10891&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,5330,5331,5332
+#EXTINF:0,MDR Sachsen HD
+rtsp://sat.ip/?src=1&freq=10891&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,5320,5331,5332
+#EXTINF:0,MDR Thüringen HD
+rtsp://sat.ip/?src=1&freq=10891&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,5340,5331,5332
+#EXTINF:0,NDR FS HH HD
+rtsp://sat.ip/?src=1&freq=11582&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,5240,5221,5222
+#EXTINF:0,NDR FS MV HD
+rtsp://sat.ip/?src=1&freq=11582&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,5230,5221,5222
+#EXTINF:0,NDR FS NDS HD
+rtsp://sat.ip/?src=1&freq=11582&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,5220,5221,5222
+#EXTINF:0,NDR FS SH HD
+rtsp://sat.ip/?src=1&freq=11582&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,5250,5221,5222
+#EXTINF:0,rbb Berlin HD
+rtsp://sat.ip/?src=1&freq=10891&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,5310,5311,5312,5313,5314,5316,5317
+#EXTINF:0,rbb Brandenburg HD
+rtsp://sat.ip/?src=1&freq=10891&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,5300,5301,5302
+#EXTINF:0,SWR BW HD
+rtsp://sat.ip/?src=1&freq=11494&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,5120,5121,5122
+#EXTINF:0,SWR RP HD
+rtsp://sat.ip/?src=1&freq=11494&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,5130,5121,5122
+#EXTINF:0,WDR HD Aachen
+rtsp://sat.ip/?src=1&freq=11523&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,110,101,102
+#EXTINF:0,WDR HD Bielefeld
+rtsp://sat.ip/?src=1&freq=11523&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,120,101,102
+#EXTINF:0,WDR HD Bonn
+rtsp://sat.ip/?src=1&freq=11523&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,130,101,102
+#EXTINF:0,WDR HD Dortmund
+rtsp://sat.ip/?src=1&freq=11523&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,140,101,102
+#EXTINF:0,WDR HD Duisburg
+rtsp://sat.ip/?src=1&freq=11523&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,150,101,102
+#EXTINF:0,WDR HD Düsseldorf
+rtsp://sat.ip/?src=1&freq=11523&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,160,101,102
+#EXTINF:0,WDR HD Essen
+rtsp://sat.ip/?src=1&freq=11523&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,170,101,102
+#EXTINF:0,WDR HD Köln
+rtsp://sat.ip/?src=1&freq=11523&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,100,101,102
+#EXTINF:0,WDR HD Münster
+rtsp://sat.ip/?src=1&freq=11523&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,180,101,102
+#EXTINF:0,WDR HD Siegen
+rtsp://sat.ip/?src=1&freq=11523&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,1190,101,102
+#EXTINF:0,WDR HD Wuppertal
+rtsp://sat.ip/?src=1&freq=11523&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,200,101,102
