@@ -1,6 +1,6 @@
 # SAT>IP M3U playlists
 
-Da die "Standardplaylist" (auf satip.info) seit Jahren nicht mehr gepflegt wird, hier eine Playlist mit den relevanten FTA Sendern auf Astra 19.2E. Mittels VLC und einem SAT>IP-Server kann somit der Empfang starten.
+Da die "Standardplaylist" (auf satip.info) seit Jahren nicht mehr gepflegt wird, (bzw. die Webseite nicht mehr erreichbar ist) hier eine Playlist mit den relevanten FTA Sendern auf Astra 19.2E. Mittels VLC und einem SAT>IP-Server kann somit der Empfang starten.
 
 **Wenn ein bestimmter Sender gewünscht wird oder nicht mehr funktioniert, Issue erstellen. Vorerst sind alle mir halbwegs wichtig erscheinenden Sender enthalten.**
 
@@ -10,7 +10,7 @@ Die Liste wird *händisch* gepflegt, allerdings nicht im Rohformat sondern in ei
 
 ### Einbinden der aktuellen Playlist in VLC
 
-Um immer die aktuellste Playlist zu verwenden kann - anstatt eine lokal bearbeitete und gespeicherte Kopie - auch direkt die Liste eingebunden werden.
+Um immer die aktuellste Playlist zu verwenden kann - anstatt einer lokal bearbeiteten und gespeicherten Kopie - auch direkt die Liste online eingebunden werden.
 
 Im VLC:
 - Menü Werkzeuge
