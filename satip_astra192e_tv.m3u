@@ -75,6 +75,8 @@ rtsp://sat.ip/?src=1&freq=12460&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=2
 rtsp://sat.ip/?src=1&freq=11538&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,201,605,625
 #EXTINF:0,France 24 English
 rtsp://sat.ip/?src=1&freq=11538&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,202,606,626
+#EXTINF:0,Franken Plus HD
+rtsp://sat.ip/?src=1&freq=11553&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,110,1100,1102
 #EXTINF:0,HGTV
 rtsp://sat.ip/?src=1&freq=10921&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=78&pids=0,17,18,99,1023,1024
 #EXTINF:0,Hip Trips
