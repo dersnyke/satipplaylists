@@ -22,3 +22,8 @@ Im VLC:
 - Eintragen: https://raw.githubusercontent.com/dersnyke/satipplaylists/main/satip_astra192e.m3u
 
 So wird bei jedem Start die aktuelle Version geladen.
+
+#### Hinweis
+
+##### Telestar Digibit Twin
+Ggf. muss auch die Auswahl des Frontends (Parameter "fe=") angepasst werden muss. Der Digibit versorgt auf src=1 den LNB nur dann mit Spannung, wenn auch der Parameter fe=1 übergeben wird. Anders ist es bei src=2, welcher diesen Parameter nicht benötigt. -- [@schackira](https://github.com/schackira) [#15](https://github.com/dersnyke/satipplaylists/issues/15)
