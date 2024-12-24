@@ -103,6 +103,8 @@ rtsp://sat.ip/?src=1&freq=11244&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=2
 rtsp://sat.ip/?src=1&freq=12633&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,133,233,333,533
 #EXTINF:0,MDR HD
 rtsp://sat.ip/?src=1&freq=10891&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5330,5331,5332,5334
+#EXTINF:0,Medienplattform Bayern
+rtsp://sat.ip/?src=1&freq=11553&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,111,1110
 #EXTINF:0,MTV
 rtsp://sat.ip/?src=1&freq=11973&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,411,4081,4082,4083
 #EXTINF:0,muenchen.tv HD
@@ -179,6 +181,8 @@ rtsp://sat.ip/?src=1&freq=12633&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=2
 rtsp://sat.ip/?src=1&freq=12460&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,37,103,1535,1536
 #EXTINF:0,TOGGO plus
 rtsp://sat.ip/?src=1&freq=12188&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,58,301,303
+#EXTINF:0,TV Berlin
+rtsp://sat.ip/?src=1&freq=11302&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,132,3940,3941
 #EXTINF:0,tv.ingolstadt HD
 rtsp://sat.ip/?src=1&freq=11553&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,105,1050,1052
 #EXTINF:0,TV1 OOE
