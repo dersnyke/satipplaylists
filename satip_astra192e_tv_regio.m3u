@@ -2,7 +2,13 @@
 #EXTINF:0,BR Fernsehen Nord HD
 rtsp://sat.ip/?src=1&freq=11582&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,5210,5201,5202
 #EXTINF:0,BR Fernsehen Süd HD
-rtsp://sat.ip/?src=1&freq=11582&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,5200,5201,5202
+rtsp://sat.ip/?src=1&freq=11582&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,5200,5201,5202,5203,5204,5206,5207
+#EXTINF:0,DMAX Austria
+rtsp://sat.ip/?src=1&freq=12148&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,45,115,3583,3584
+#EXTINF:0,Kabel 1 Austria
+rtsp://sat.ip/?src=1&freq=12051&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,166,167,169,1027
+#EXTINF:0,kabel1 Doku Austria
+rtsp://sat.ip/?src=1&freq=11671&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,44,108,3327,3328
 #EXTINF:0,MDR S-Anhalt HD
 rtsp://sat.ip/?src=1&freq=10891&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,5330,5331,5332
 #EXTINF:0,MDR Sachsen HD
@@ -17,14 +23,42 @@ rtsp://sat.ip/?src=1&freq=11582&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=
 rtsp://sat.ip/?src=1&freq=11582&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,5220,5221,5222
 #EXTINF:0,NDR FS SH HD
 rtsp://sat.ip/?src=1&freq=11582&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,5250,5221,5222
+#EXTINF:0,Nick/Comedy Central Austria
+rtsp://sat.ip/?src=1&freq=12148&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,107,1791,1792,1793
+#EXTINF:0,NITRO Austria
+rtsp://sat.ip/?src=1&freq=12663&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,1020,1021,1025,1102
+#EXTINF:0,ntv Austria
+rtsp://sat.ip/?src=1&freq=11082&pol=h&ro=0.20&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=34&pids=0,17,18,56,700,711,712,720
+#EXTINF:0,Pro7 MAXX Austria
+rtsp://sat.ip/?src=1&freq=11671&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,43,107,3071,3072
+#EXTINF:0,ProSieben Austria
+rtsp://sat.ip/?src=1&freq=12051&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,36,84,85,161,1025
 #EXTINF:0,rbb Berlin HD
 rtsp://sat.ip/?src=1&freq=10891&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,5310,5311,5312,5313,5314,5316,5317
 #EXTINF:0,rbb Brandenburg HD
 rtsp://sat.ip/?src=1&freq=10891&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,5300,5301,5302
+#EXTINF:0,RTL Austria
+rtsp://sat.ip/?src=1&freq=12226&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,200,201,202,203
+#EXTINF:0,RTLup Austria
+rtsp://sat.ip/?src=1&freq=11244&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,229,2290,2291,2295
+#EXTINF:0,RTLZWEI Austria
+rtsp://sat.ip/?src=1&freq=12226&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,400,401,402,403
+#EXTINF:0,SAT.1 A
+rtsp://sat.ip/?src=1&freq=12051&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,800,801,802,803,1028
+#EXTINF:0,SAT.1 Gold Österreich
+rtsp://sat.ip/?src=1&freq=11671&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,42,106,2815,2816
+#EXTINF:0,sixx Austria
+rtsp://sat.ip/?src=1&freq=11671&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,41,105,2559,2560
+#EXTINF:0,SUPER RTL A
+rtsp://sat.ip/?src=1&freq=12226&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,500,501,502,503
 #EXTINF:0,SWR BW HD
 rtsp://sat.ip/?src=1&freq=11494&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,5120,5121,5122
 #EXTINF:0,SWR RP HD
 rtsp://sat.ip/?src=1&freq=11494&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,5130,5121,5122
+#EXTINF:0,TLC Austria
+rtsp://sat.ip/?src=1&freq=12148&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,33,105,511,512
+#EXTINF:0,VOX Austria
+rtsp://sat.ip/?src=1&freq=12226&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,300,301,302,303
 #EXTINF:0,WDR HD Aachen
 rtsp://sat.ip/?src=1&freq=11523&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,110,101,102
 #EXTINF:0,WDR HD Bielefeld
