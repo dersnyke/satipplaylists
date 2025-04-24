@@ -25,8 +25,8 @@ rtsp://sat.ip/?src=1&freq=11229&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=
 rtsp://sat.ip/?src=1&freq=11244&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,224,2240,2241
 #EXTINF:0,Bloomberg Europe TV
 rtsp://sat.ip/?src=1&freq=12604&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,48,150,265,3622
-#EXTINF:0,BR Fernsehen Süd HD
-rtsp://sat.ip/?src=1&freq=11583&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5200,5201,5202,5203,5204,5206,5207
+#EXTINF:0,BR Fernsehen Sued HD
+rtsp://sat.ip/?src=1&freq=11582&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5200,5201,5202,5203,5204,5206,5207
 #EXTINF:0,CGTN Documentary
 rtsp://sat.ip/?src=1&freq=11376&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,1021,1022,1500
 #EXTINF:0,CGTN HD
@@ -40,21 +40,15 @@ rtsp://sat.ip/?src=1&freq=11778&pol=v&ro=0.25&msys=dvbs2&mtype=qpsk&plts=off&sr=
 #EXTINF:0,Comedy Central
 rtsp://sat.ip/?src=1&freq=11973&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,416,4061,4062,4063
 #EXTINF:0,Crime Time
-rtsp://sat.ip/?src=1&freq=12610&pol=v&ro=0.25&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=34&pids=0,17,18,107,3071,3072
+rtsp://sat.ip/?src=1&freq=12110&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,107,3071,3072
 #EXTINF:0,Das Erste HD
 rtsp://sat.ip/?src=1&freq=11494&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5100,5101,5102,5104
 #EXTINF:0,Deluxe Dance by Kontor
-rtsp://sat.ip/?src=1&freq=12610&pol=v&ro=0.25&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=34&pids=0,17,18,101,1535,1536
-#EXTINF:0,Deluxe Flashback
-rtsp://sat.ip/?src=1&freq=12610&pol=v&ro=0.25&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=34&pids=0,17,18,102,1791,1792
-#EXTINF:0,Deluxe Lounge
-rtsp://sat.ip/?src=1&freq=12610&pol=v&ro=0.25&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=34&pids=0,17,18,105,2559,2560
+rtsp://sat.ip/?src=1&freq=12110&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,101,1535,1536
 #EXTINF:0,Deluxe Music
 rtsp://sat.ip/?src=1&freq=12148&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,99,3327,3328
 #EXTINF:0,Deluxe Rap
-rtsp://sat.ip/?src=1&freq=12610&pol=v&ro=0.25&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=34&pids=0,17,18,100,1279,1280
-#EXTINF:0,Deluxe Rock
-rtsp://sat.ip/?src=1&freq=12610&pol=v&ro=0.25&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=34&pids=0,17,18,99,1023,1024
+rtsp://sat.ip/?src=1&freq=12110&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,100,1279,1280
 #EXTINF:0,DF1 HD
 rtsp://sat.ip/?src=1&freq=11302&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,110,4920,4921
 #EXTINF:0,Disney Channel
@@ -64,11 +58,11 @@ rtsp://sat.ip/?src=1&freq=12480&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=2
 #EXTINF:0,DMF
 rtsp://sat.ip/?src=1&freq=12460&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,35,99,767,768
 #EXTINF:0,DOKUSAT
-rtsp://sat.ip/?src=1&freq=12663&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,1030,1031,1035,1103
+rtsp://sat.ip/?src=1&freq=11836&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,101,102,104,1000
 #EXTINF:0,DW English HD
 rtsp://sat.ip/?src=1&freq=11778&pol=v&ro=0.25&msys=dvbs2&mtype=qpsk&plts=off&sr=29500&fec=910&pids=0,17,18,1000,1110,1120
-#EXTINF:0,EURONEWS GERMAN SD
-rtsp://sat.ip/?src=1&freq=11376&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,1081,1082,1180
+#EXTINF:0,EURONEWS GERMAN SD PAL
+rtsp://sat.ip/?src=1&freq=11376&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,1108,2321,2331
 #EXTINF:0,EUROSPORT Deutschland
 rtsp://sat.ip/?src=1&freq=12226&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,101,103,280,102
 #EXTINF:0,EWTN Katholisches TV
@@ -82,19 +76,19 @@ rtsp://sat.ip/?src=1&freq=11553&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=
 #EXTINF:0,HGTV
 rtsp://sat.ip/?src=1&freq=10921&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=78&pids=0,17,18,99,1023,1024
 #EXTINF:0,Hip Trips
-rtsp://sat.ip/?src=1&freq=12610&pol=v&ro=0.25&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=34&pids=0,17,18,97,511,512
+rtsp://sat.ip/?src=1&freq=12110&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,97,511,512
 #EXTINF:0,Hoehenrausch
-rtsp://sat.ip/?src=1&freq=12610&pol=v&ro=0.25&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=34&pids=0,17,18,106,2815,2816
+rtsp://sat.ip/?src=1&freq=12110&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,106,2815,2816
 #EXTINF:0,Hope Channel TV
 rtsp://sat.ip/?src=1&freq=11244&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,227,2270,2271
 #EXTINF:0,HR HD
 rtsp://sat.ip/?src=1&freq=10891&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5350,5351,5352,5354
 #EXTINF:0,Just Cooking
-rtsp://sat.ip/?src=1&freq=12610&pol=v&ro=0.25&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=34&pids=0,17,18,103,2047,2048
+rtsp://sat.ip/?src=1&freq=12110&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,103,2047,2048
 #EXTINF:0,Just Fishing
-rtsp://sat.ip/?src=1&freq=12610&pol=v&ro=0.25&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=34&pids=0,17,18,104,2303,2304
-#EXTINF:0,K-TV Fernsehen
-rtsp://sat.ip/?src=1&freq=12633&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,102,202,302
+rtsp://sat.ip/?src=1&freq=12110&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,1544,2303,2304
+#EXTINF:0,K-TV HD
+rtsp://sat.ip/?src=1&freq=11112&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,99,1023,1024
 #EXTINF:0,kabel eins
 rtsp://sat.ip/?src=1&freq=12545&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,767,768,98,34
 #EXTINF:0,kabel eins Doku
@@ -130,7 +124,7 @@ rtsp://sat.ip/?src=1&freq=11273&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=
 #EXTINF:0,ONE HD
 rtsp://sat.ip/?src=1&freq=11053&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,5410,5411,5412
 #EXTINF:0,One Terra
-rtsp://sat.ip/?src=1&freq=12610&pol=v&ro=0.25&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=34&pids=0,17,18,98,767,768
+rtsp://sat.ip/?src=1&freq=12110&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,98,767,768
 #EXTINF:0,ORF 2 EUROPE
 rtsp://sat.ip/?src=1&freq=11273&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,310,3100,3101
 #EXTINF:0,ORF HITRADIO OE3 VISUAL
@@ -144,7 +138,7 @@ rtsp://sat.ip/?src=1&freq=12545&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=2
 #EXTINF:0,R9 Oesterreich HD
 rtsp://sat.ip/?src=1&freq=11273&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,312,3120,3121
 #EXTINF:0,Radio Bremen TV
-rtsp://sat.ip/?src=1&freq=12422&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,1200,1201,1202,1204
+rtsp://sat.ip/?src=1&freq=11053&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,5440,5441,5442,5443,5447
 #EXTINF:0,rbb Berlin HD
 rtsp://sat.ip/?src=1&freq=10891&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5310,5311,5312,5313,5314,5316,5317
 #EXTINF:0,Red Adventure
@@ -166,7 +160,7 @@ rtsp://sat.ip/?src=1&freq=12545&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=2
 #EXTINF:0,SAT.1 Gold
 rtsp://sat.ip/?src=1&freq=12545&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,1279,1280,100,36
 #EXTINF:0,SERIEN+
-rtsp://sat.ip/?src=1&freq=12610&pol=v&ro=0.25&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=34&pids=0,17,18,108,3327,3328
+rtsp://sat.ip/?src=1&freq=12110&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,108,3327,3328
 #EXTINF:0,Sixx
 rtsp://sat.ip/?src=1&freq=12545&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,38,102,1791,1792
 #EXTINF:0,Sky News Intl
@@ -184,7 +178,7 @@ rtsp://sat.ip/?src=1&freq=11053&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=
 #EXTINF:0,TELE 5
 rtsp://sat.ip/?src=1&freq=12480&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,99,1535,1536
 #EXTINF:0,TELEGOLD
-rtsp://sat.ip/?src=1&freq=12633&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,53,54,105,504
+rtsp://sat.ip/?src=1&freq=11836&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,48,201,202,204
 #EXTINF:0,TLC
 rtsp://sat.ip/?src=1&freq=12460&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,37,103,1535,1536
 #EXTINF:0,TOGGO plus
@@ -207,17 +201,17 @@ rtsp://sat.ip/?src=1&freq=12188&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=2
 rtsp://sat.ip/?src=1&freq=12226&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,600,601,602,603
 #EXTINF:0,WDR HD Aachen
 rtsp://sat.ip/?src=1&freq=11523&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,101,102,103,104,106,107,110,111
-#EXTINF:0,WDR HD Koeln
-rtsp://sat.ip/?src=1&freq=11523&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,100,101,102,103,104,106,107
+#EXTINF:0,wedotv Movies
+rtsp://sat.ip/?src=1&freq=11836&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,51,411,4101
 #EXTINF:0,WELT
 rtsp://sat.ip/?src=1&freq=12545&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,99,1023,1024
 #EXTINF:0,Xplore
-rtsp://sat.ip/?src=1&freq=12610&pol=v&ro=0.25&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=34&pids=0,17,18,96,255,256
+rtsp://sat.ip/?src=1&freq=12110&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,96,255,256
 #EXTINF:0,ZDF HD
 rtsp://sat.ip/?src=1&freq=11362&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,6100,6110,6120,6130
 #EXTINF:0,ZDFinfo HD
 rtsp://sat.ip/?src=1&freq=11347&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,6700,6710,6720,6730
 #EXTINF:0,zdf_neo HD
 rtsp://sat.ip/?src=1&freq=11362&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,6300,6310,6320,6330
-#EXTINF:0,Zwei Music
-rtsp://sat.ip/?src=1&freq=12148&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,100,3071,3072
+#EXTINF:0,Zwei Music Television
+rtsp://sat.ip/?src=1&freq=11836&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,910,911,6101
