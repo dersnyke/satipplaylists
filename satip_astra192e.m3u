@@ -117,16 +117,16 @@ rtsp://sat.ip/?src=1&freq=12226&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=2
 rtsp://sat.ip/?src=1&freq=12460&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,100,1023,1024
 #EXTINF:0,ffn
 rtsp://sat.ip/?src=1&freq=12633&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,154,354
-#EXTINF:0,France 24
+#EXTINF:0,France 24 (en Francais)
 rtsp://sat.ip/?src=1&freq=11538&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,201,605,625
-#EXTINF:0,France 24 English
+#EXTINF:0,France 24 (in English)
 rtsp://sat.ip/?src=1&freq=11538&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,202,606,626
 #EXTINF:0,Franken Plus HD
 rtsp://sat.ip/?src=1&freq=11553&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,110,1100,1102
 #EXTINF:0,Fritz
 rtsp://sat.ip/?src=1&freq=10891&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,950,951
-#EXTINF:0,HGTV
-rtsp://sat.ip/?src=1&freq=10921&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=78&pids=0,17,18,99,1023,1024
+#EXTINF:0,HGTV HD
+rtsp://sat.ip/?src=1&freq=12344&pol=h&ro=0.35&msys=dvbs2&mtype=qpsk&plts=off&sr=27500&fec=910&pids=0,17,18,104,1535,1539
 #EXTINF:0,Hip Trips
 rtsp://sat.ip/?src=1&freq=12110&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,97,511,512
 #EXTINF:0,Hoehenrausch
@@ -181,8 +181,6 @@ rtsp://sat.ip/?src=1&freq=10891&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=
 rtsp://sat.ip/?src=1&freq=10891&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,810,811
 #EXTINF:0,MDR SPUTNIK
 rtsp://sat.ip/?src=1&freq=10891&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,850,851
-#EXTINF:0,Medienplattform Bayern
-rtsp://sat.ip/?src=1&freq=11553&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,111,1110
 #EXTINF:0,MTV
 rtsp://sat.ip/?src=1&freq=11973&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,411,4081,4082,4083
 #EXTINF:0,muenchen.tv HD
@@ -359,8 +357,8 @@ rtsp://sat.ip/?src=1&freq=11273&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=
 rtsp://sat.ip/?src=1&freq=11538&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,665,615,635
 #EXTINF:0,UHD1
 rtsp://sat.ip/?src=1&freq=10995&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=56&pids=0,17,18,96,101,102
-#EXTINF:0,Volksmusik TV
-rtsp://sat.ip/?src=1&freq=11244&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,222,2220,2221
+#EXTINF:0,volksmusik.tv
+rtsp://sat.ip/?src=1&freq=11836&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,48,201,202,204
 #EXTINF:0,VOX
 rtsp://sat.ip/?src=1&freq=12188&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,167,136,47,71
 #EXTINF:0,VOXup
