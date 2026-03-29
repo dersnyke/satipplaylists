@@ -51,8 +51,8 @@ rtsp://sat.ip/?src=1&freq=11671&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=
 rtsp://sat.ip/?src=1&freq=12226&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,500,501,502,503
 #EXTINF:0,SWR BW HD
 rtsp://sat.ip/?src=1&freq=11494&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,5120,5121,5122
-#EXTINF:0,SWR RP HD
-rtsp://sat.ip/?src=1&freq=11494&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,5130,5121,5122
+#EXTINF:0,SWR RLP HD
+rtsp://sat.ip/?src=1&freq=11494&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,5121,5122,5126,5127,5130,5134
 #EXTINF:0,TLC Austria
 rtsp://sat.ip/?src=1&freq=12148&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,33,105,511,512
 #EXTINF:0,VOX Austria
