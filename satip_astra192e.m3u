@@ -291,6 +291,8 @@ rtsp://sat.ip/?src=1&freq=12188&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=2
 rtsp://sat.ip/?src=1&freq=12545&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,255,256,96,32
 #EXTINF:0,SAT.1 Gold
 rtsp://sat.ip/?src=1&freq=12545&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,1279,1280,100,36
+#EXTINF:0,Schlager Deluxe
+rtsp://sat.ip/?src=1&freq=10921&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=78&pids=0,17,18,97,511,512
 #EXTINF:0,SERIEN+
 rtsp://sat.ip/?src=1&freq=12110&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,108,3327,3328
 #EXTINF:0,Sixx
@@ -323,7 +325,9 @@ rtsp://sat.ip/?src=1&freq=11053&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=
 rtsp://sat.ip/?src=1&freq=11053&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,510,511
 #EXTINF:0,SWR3
 rtsp://sat.ip/?src=1&freq=11053&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,530,531
-#EXTINF:0,SWR4 BW
+#EXTINF:0,SWR4 MZ
+rtsp://sat.ip/?src=1&freq=11053&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,550,551
+#EXTINF:0,SWR4 S
 rtsp://sat.ip/?src=1&freq=11053&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,540,541
 #EXTINF:0,tagesschau24 HD
 rtsp://sat.ip/?src=1&freq=11053&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,5400,5401,5402
